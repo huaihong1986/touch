@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/hahong/Desktop/android/touch/app/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <drawable name="blue">#0000FF</drawable>
+    <drawable name="darkgray">#808080</drawable>
+    <drawable name="white">#FFFFFF</drawable>
+    <!-- From: file:/Users/hahong/Desktop/android/touch/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">EX07_04</string>
+    <string name="hello">点击屏幕可以移动图片</string>
+</resources>
